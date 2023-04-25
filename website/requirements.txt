@@ -1,0 +1,7 @@
+flask_sqlalchemy
+flask_wtf
+email_validator
+flask
+flask_login
+flask_migrate
+pymongo

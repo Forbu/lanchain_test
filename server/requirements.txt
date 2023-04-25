@@ -2,4 +2,3 @@ PyPDF2
 ipykernel
 chromadb
 tiktoken
-pyarrow
